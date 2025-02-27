@@ -229,9 +229,6 @@ debug_mode = True  # 启用调试模式
 - 编写清晰的提交信息
 </details>
 
-## 许可证
-
-本项目采用BSD-3-Clause许可证 - 详情请参阅LICENSE文件。
 
 ## 作者
 
