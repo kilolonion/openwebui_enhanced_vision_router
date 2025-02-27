@@ -229,9 +229,6 @@ Contributions are welcome! Feel free to submit Pull Requests.
 - Write clear commit messages
 </details>
 
-## License
-
-This project is licensed under the BSD-3-Clause License - see the LICENSE file for details.
 
 ## Author
 
